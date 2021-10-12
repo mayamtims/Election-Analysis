@@ -1,4 +1,4 @@
-# Election-Analysis
+# Election Analysis Using Python
 
 ## Overview of Election Audit
 The purpose of this project was to perform an audit of a congressional election. The objectives of the audit included:
@@ -13,8 +13,8 @@ The purpose of this project was to perform an audit of a congressional election.
 8. Calculating the county with the highest turnout
 
 ## Resources
--Data Source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code, 1.38.1
+- Data Source: election_results.csv
+- Software: Python 3.7.6, Visual Studio Code, 1.38.1
 
 ## Election Audit Results
 The analysis of the election show that:
@@ -39,4 +39,4 @@ The analysis of the election show that:
  ![election summary](https://github.com/mayamtims/Election-Analysis/blob/main/Resources/election_analysis.png)
 
  ## Election Audit Summary
- This script can be modified to obtain information about many different elections and elements of elections. With proper datasets provided, this script could be used as a template to find the winning candidate and county of any local election. The only information provided in the given dataset was ballot ID, county and candidate voted for. If further characteristics of each voter were provided in a dataset, this script could be used as a blueprint to obtain information beyond who won and how each county was represented. Many different demographics could be analyzed, such as the age, gender, race or socioeconomic class of voters in each county. 
+ This script can be modified to obtain information about many different elections and elements of elections. With proper datasets provided, this script could be used as a template to find the winning candidate and county of any local election. The only information provided in the given dataset was ballot ID, county and candidate name for each voter. If further characteristics of each voter were provided in a dataset, this script could be used as a blueprint to obtain information beyond who won and how each county was represented. Many different demographics could be analyzed, such as the age, gender, race or socioeconomic class of voters in each county. 
